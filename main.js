@@ -19,8 +19,6 @@ function start(){
 }
 
 function preload() {
-    
-
 }
 
 function modelLoaded(){
